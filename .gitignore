@@ -1,0 +1,11 @@
+/build/
+/results/
+/.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+*.besa
+*.besa.*
+*.npz
+*.csv
+*.json

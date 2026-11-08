@@ -62,4 +62,3 @@ python -m unittest discover -s tests -p 'test_*.py'
 No patient recording is distributed in this repository. The BESA reader is
 derived from [UDA-Neuro/RealTimeMI](https://github.com/UDA-Neuro/RealTimeMI)
 under the MIT license; see [PROVENANCE.md](PROVENANCE.md).
-
